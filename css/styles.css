@@ -199,9 +199,8 @@ nav {
  font-size: 1.3rem;
 }
 
+.menu__icons {
+    display: none;
+}
 
-
-
-
-
-
+}
